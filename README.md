@@ -1,4 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=albin-joseph&repo=albin-joseph&style=flat-square)
 ### 😎 Hey I'm Albin Joseph
 
 Hi I'm Albin Joseph, Technical Lead at Codelynks Software solution Pvt Ltd. Previously worked in RapidValue Software Solutions Pvt Ltd and ThinkPalm Technologies.

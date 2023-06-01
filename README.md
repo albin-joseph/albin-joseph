@@ -1,6 +1,6 @@
 ### 😎 Hey I'm Albin Joseph
 
-Hi I'm Albin Joseph, Technical Lead at Codelynks Software solution Pvt Ltd. Previously worked in RapidValue Software Solutions Pvt Ltd and ThinkPalm Technologies.
+Hi I'm Albin Joseph, Associate Technical Architect at Codelynks Software solution Pvt Ltd. Previously worked in RapidValue Software Solutions Pvt Ltd and ThinkPalm Technologies.
 I'm always up for creative thinking.Meet passionate people with innovative ideas.Discovering new technologies.
 
 - 🔭 I’m currently working on Swift, Swift UI, Objective C, React Native, Node JS & React JS

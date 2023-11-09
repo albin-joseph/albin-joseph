@@ -5,7 +5,7 @@ I'm always up for creative thinking.Meet passionate people with innovative ideas
 
 - 🔭 I’m currently working on Swift, Swift UI, Objective C, React Native, Node JS & React JS
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: albinjoseph007@gmail.com, [Linkdin](https://www.linkedin.com/in/-albin-joseph-6b791b24/)
+- 📫 How to reach me: albinjoseph007@gmail.com, [Linkdin](https://www.linkedin.com/in/albinjosephios/)
 
 <!--
 **albin-joseph/albin-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

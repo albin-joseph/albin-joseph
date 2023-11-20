@@ -3,8 +3,8 @@
 Hi I'm Albin Joseph, Associate Technical Architect at Codelynks Software solution Pvt Ltd. Previously worked in RapidValue Software Solutions Pvt Ltd and ThinkPalm Technologies.
 I'm always up for creative thinking.Meet passionate people with innovative ideas.Discovering new technologies.
 
-- 🔭 I’m currently working on Swift, Swift UI, Objective C, React Native, Node JS & React JS
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Swift, Swift UI, Objective C, React Native, Node JS, React JS & Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: albinjoseph007@gmail.com, [Linkdin](https://www.linkedin.com/in/albinjosephios/)
 
 <!--
